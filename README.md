@@ -1,7 +1,5 @@
 ### Olá, tudo bem? :metal:
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=gui240799" alt="gui240799" /></p>
-
 <h1 align="justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Guilherme Souza</h1>
 <p align="justify">Sou Tech Lead com ampla experiência em desenvolvimento Web, com um foco particular no desenvolvimento back-end utilizando .NET, minha principal linguagem de trabalho. Tenho liderado e desenvolvido projetos web SPA com C# e Blazor, sempre buscando a excelência na entrega das soluções.</p>
 
@@ -42,5 +40,4 @@ No momento, estou aprendendo **React, Arquitetura e boas práticas de Software**
 
 ## ⚡ Estatísticas do GitHub
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gui240799&show_icons=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui240799&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfsouzacps&hide=TeX&layout=compact)
