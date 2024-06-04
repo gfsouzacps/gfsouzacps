@@ -10,7 +10,7 @@ No momento, estou aprendendo **React, Arquitetura e boas práticas de Software**
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-souza-7813491a4/)](https://www.linkedin.com/in/guilherme-souza-7813491a4/)
 [![Outlook Badge](https://img.shields.io/badge/-gui240799@outlook.com-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:gui240799@outlook.com)](mailto:gui240799@outlook.com)
 
-## 🚀💻 Tecnologias & Ferramentas
+## 🚀💻 Tecnologias
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dot-net&logoColor=white)
