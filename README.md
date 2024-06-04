@@ -1,90 +1,35 @@
 ### Olá, tudo bem? :metal:
 
-<details open>
-  <summary><h2>:robot: Quem sou eu</h2></summary>
-  <p>Eu sou <a href="https://www.linkedin.com/in/guilherme-souza-7813491a4/" target="_blank">Guilherme Souza</a>, tech lead com experiência em desenvolvimento Web. Especialista em PHP, C# e T-SQL. Tenho conhecimento em frameworks como .Net Core, Blazor e Laravel.</p>
-</details>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=gui240799" alt="gui240799" /></p>
 
-<details open>
-  <summary><h2>:inbox_tray: Me encontre em</h2></summary>
-  <a href="mailto:gui240799@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" 
-      target="_blank" 
-      alt="badge do Outlook com link para enviar email para gui240799@outlook.com"/>
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-souza-7813491a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      target="_blank" 
-      alt="badge do LinkedIn com link para meu perfil"/>
-  </a>
-</details>
- 
-<details open>
-   <summary><h2>:crossed_swords: Principais ferramentas</h2></summary>
-  <details>
-    <summary><h3>:dagger: Linguagens</h3></summary>
-    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
-        alt="csharp" 
-        width="40" 
-        height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-        alt="javascript" 
-        width="40" 
-        height="40"/> 
-    </a>   
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-        alt="html" 
-        width="40" 
-        height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-        alt="css3" 
-        width="40" 
-        height="40"/> 
-    </a>
-    <a href="https://www.php.net/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
-        alt="php" 
-        width="40" 
-        height="40"/> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-        alt="mysql" 
-        width="40" 
-        height="40"/> 
-    </a>
-    <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" 
-        alt="oracle" 
-        width="40" 
-        height="40"/> 
-    </a>
-  </details>
-  <details>
-    <summary><h3>:shield: Frameworks/Bibliotecas</h3></summary>
-    <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" 
-        alt=".net core" 
-        width="40" 
-        height="40"/> 
-    </a>
-    <a href="https://blazor.net/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" 
-        alt="blazor" 
-        width="40" 
-        height="40"/> 
-    </a>
-    <a href="https://laravel.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" 
-        alt="laravel" 
-        width="40" 
-        height="40"/> 
-    </a>
-  </details>
-</details>
+<h1 align="justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Guilherme Souza</h1>
+<p align="justify">Tech lead com experiência em desenvolvimento Web. Especialista em PHP, C# e T-SQL. Tenho conhecimento em frameworks como .Net Core, Blazor e Laravel.</p>
+
+Eu trabalho atualmente na [SERPRO](https://www.serpro.gov.br)
+
+No momento, estou aprendendo **ReactNative, ReactJS e Deno**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-souza-7813491a4/)](https://www.linkedin.com/in/guilherme-souza-7813491a4/)
+[![Outlook Badge](https://img.shields.io/badge/-gui240799@outlook.com-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:gui240799@outlook.com)](mailto:gui240799@outlook.com)
+
+## 🚀💻 Tecnologias & Ferramentas
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dot-net&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## ⚡ Estatísticas do GitHub
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gui240799&show_icons=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui240799&hide=TeX&layout=compact)
