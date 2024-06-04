@@ -1,6 +1,6 @@
-### Olá, tudo bem? :metal:
+### Saudações! :metal:
 
-<h1 align="justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Guilherme Souza</h1>
+<h1 align="justify"> Sou Guilherme Souza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="justify">Sou Tech Lead com ampla experiência em desenvolvimento Web, com um foco particular no desenvolvimento back-end utilizando .NET, minha principal linguagem de trabalho. Tenho liderado e desenvolvido projetos web SPA com C# e Blazor, sempre buscando a excelência na entrega das soluções.</p>
 
 <p align="justify">Em junho de 2024, comecei a pós-graduação em Arquitetura de Software na FIAP, com o objetivo de aprimorar e expandir meus conhecimentos na área.</p>
