@@ -88,16 +88,3 @@
     </a>
   </details>
 </details>
-
-<details>
-  <summary><h2>:star: Curiosidades</h2></summary>
-
-  <details>
-    <summary><h2>:heart_eyes: Animais de estimação amados</h2></summary>
-    <ul>
-      <li>:black_cat: Gaia :latin_cross: (2023)</li>
-      <li>:black_cat: Eddie</li>
-      <li>:dog: Kiki</li>
-    </ul>
-  </details>
-</details>
