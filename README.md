@@ -7,7 +7,7 @@
 
 <p align="justify">Em junho de 2024, comecei a pós-graduação em Arquitetura de Software na FIAP, com o objetivo de aprimorar e expandir meus conhecimentos na área.</p>
 
-No momento, estou aprendendo **React, Arquitetura e boas práticas de Software **
+No momento, estou aprendendo **React, Arquitetura e boas práticas de Software**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-souza-7813491a4/)](https://www.linkedin.com/in/guilherme-souza-7813491a4/)
 [![Outlook Badge](https://img.shields.io/badge/-gui240799@outlook.com-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:gui240799@outlook.com)](mailto:gui240799@outlook.com)
@@ -32,13 +32,13 @@ No momento, estou aprendendo **React, Arquitetura e boas práticas de Software *
 ## 🔧 Metodologias & Ferramentas
 
 ### Metodologias Ágeis
-- Experiência em metodologias ágeis, como Scrum e Kanban, para gestão eficaz de projetos e equipes de desenvolvimento.
+- Experiência em metodologias ágeis, como Scrum e Kanban.
+- Cerimônias ágeis, como reuniões de planejamento, revisão e retrospectiva.
 
-### CI/CD & Azure DevOps
-- Implementação de pipelines de CI/CD utilizando Azure DevOps para automatização de builds, testes e deployment de aplicações.
+### Azure DevOps
+- Utilização de Azure Boards para gerenciamento de projetos, incluindo backlog, sprints e acompanhamento de progresso.
+- Implementação de pipelines de CI/CD utilizando Azure DevOps para automatização de builds e deployment de aplicações.
 - Configuração e gerenciamento de ambientes de desenvolvimento, teste e produção no Azure DevOps para facilitar a colaboração e entrega contínua.
-- Utilização de Azure Boards para gerenciamento de projetos ágeis, incluindo backlog, sprints e acompanhamento de progresso.
-
 
 ## ⚡ Estatísticas do GitHub
 
