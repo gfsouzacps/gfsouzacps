@@ -19,6 +19,7 @@ Atualmente, além da liderança técnica em projetos Web, trabalho na evolução
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dot-net&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
@@ -50,17 +51,15 @@ Atualmente, além da liderança técnica em projetos Web, trabalho na evolução
 ## ⚡ Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gfsouzacps&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfsouzacps&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfsouzacps&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfsouzacps&layout=compact&theme=dracula&hide_border=true)
+
 </div>
 
 <br>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-souza-7813491a4/">
-    <img src="https://img.shields.io/badge/-Guilherme%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
-  </a>
-  <a href="mailto:gui240799@outlook.com">
-    <img src="https://img.shields.io/badge/-gui240799@outlook.com-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge">
-  </a>
-</div>
+### 📫 Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Souza-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-souza-7813491a4/)
+[![Email](https://img.shields.io/badge/Email-gui240799@outlook.com-c14438?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gui240799@outlook.com)
