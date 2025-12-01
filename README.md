@@ -13,24 +13,29 @@ Sou pós-graduado em Arquitetura de Software na FIAP, aplicando conhecimentos s�
 Atualmente, além da liderança técnica em projetos Web, trabalho na evolução de produtos de <strong>Inteligência Artificial</strong> voltados para busca semântica, utilizando <strong>Python</strong> e orquestrando serviços do <strong>Azure</strong> (AI Search, Bot Service) integrados ao Microsoft 365.
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-souza-7813491a4/)](https://www.linkedin.com/in/guilherme-souza-7813491a4/)
-[![Outlook Badge](https://img.shields.io/badge/-gui240799@outlook.com-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:gui240799@outlook.com)](mailto:gui240799@outlook.com)
-
 ## 🚀💻 Tecnologias
+
+### Backend, Cloud & AI
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dot-net&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Banco de Dados & Infra
+![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/-Cosmos%20DB-444444?style=flat-square&logo=azurecosmosdb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 🔧 Metodologias & Ferramentas
 ### Metodologias Ágeis
@@ -41,3 +46,21 @@ Atualmente, além da liderança técnica em projetos Web, trabalho na evolução
 - Gerenciamento de projetos via Azure Boards (backlog, sprints).
 - Implementação de pipelines de CI/CD para automação de builds e deploy.
 - Reestruturação de repositórios com foco em versionamento consistente e qualidade de software.
+
+## ⚡ Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gfsouzacps&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfsouzacps&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+<br>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/guilherme-souza-7813491a4/">
+    <img src="https://img.shields.io/badge/-Guilherme%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+  </a>
+  <a href="mailto:gui240799@outlook.com">
+    <img src="https://img.shields.io/badge/-gui240799@outlook.com-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge">
+  </a>
+</div>
