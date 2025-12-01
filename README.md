@@ -51,13 +51,16 @@ Atualmente, além da liderança técnica em projetos Web, trabalho na evolução
 ## ⚡ Estatísticas
 
 <div align="center">
-
-<a href="https://github.com/gfsouzacps">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gfsouzacps&theme=dracula&hide_border=true" alt="Github Streak">
-</a>
-<a href="https://github.com/gfsouzacps">
-  <img height="160em" src="https://metrics.lecoq.io/gfsouzacps?template=classic&base=languages&languages_limit=8&config_timezone=America%2FSao_Paulo&hide_border=true" alt="Top Langs">
-</a>
+  
+  ![Github Streak](https://streak-stats.demolab.com/?user=gfsouzacps&theme=dracula&hide_border=true)
+  
+  <br>
+  
+  <img src="https://metrics.lecoq.io/gfsouzacps?template=classic&base=header,activity,community,repositories,metadata&config_timezone=America%2FSao_Paulo&hide_border=true" alt="Github Stats">
+  
+  <br>
+  
+  <img src="https://metrics.lecoq.io/gfsouzacps?template=classic&base=0&plugin_languages=yes&plugin_languages_ignored=html,css&plugin_languages_limit=8&config_timezone=America%2FSao_Paulo&hide_border=true" alt="Top Langs">
 
 </div>
 
@@ -67,9 +70,4 @@ Atualmente, além da liderança técnica em projetos Web, trabalho na evolução
 
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-souza-7813491a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:gui240799@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+    <img src="
